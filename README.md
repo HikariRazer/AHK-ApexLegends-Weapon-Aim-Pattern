@@ -6,7 +6,9 @@ compile gui.ahk using AHK application
 ### Weapon Pattern
 
 **3030**
-`0,4,140`
+```
+0,4,140
+```
 
 **Alternator**
 ```
